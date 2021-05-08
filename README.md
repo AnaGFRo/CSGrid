@@ -1,1 +1,2 @@
-# CSGrid
+# conershop
+practica seccion 2
